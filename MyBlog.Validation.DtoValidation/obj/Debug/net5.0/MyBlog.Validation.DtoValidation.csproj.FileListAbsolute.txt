@@ -1,0 +1,11 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\bin\Debug\net5.0\MyBlog.Validation.DtoValidation.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\bin\Debug\net5.0\MyBlog.Validation.DtoValidation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\bin\Debug\net5.0\ref\MyBlog.Validation.DtoValidation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\bin\Debug\net5.0\MyBlog.Validation.DtoValidation.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\ref\MyBlog.Validation.DtoValidation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.pdb

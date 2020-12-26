@@ -1,0 +1,12 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\ref\MyBlog.Data.Repository.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\ref\MyBlog.Data.Repository.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.pdb

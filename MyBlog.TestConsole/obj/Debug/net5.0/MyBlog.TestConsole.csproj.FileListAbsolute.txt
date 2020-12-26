@@ -1,0 +1,12 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\bin\Debug\net5.0\MyBlog.TestConsole.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\bin\Debug\net5.0\MyBlog.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\bin\Debug\net5.0\ref\MyBlog.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\bin\Debug\net5.0\MyBlog.TestConsole.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\ref\MyBlog.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.TestConsole\obj\Debug\net5.0\MyBlog.TestConsole.pdb

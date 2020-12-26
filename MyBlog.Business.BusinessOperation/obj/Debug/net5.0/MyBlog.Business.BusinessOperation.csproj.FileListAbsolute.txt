@@ -1,0 +1,12 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\bin\Debug\net5.0\MyBlog.Business.BusinessOperation.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\bin\Debug\net5.0\MyBlog.Business.BusinessOperation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\bin\Debug\net5.0\ref\MyBlog.Business.BusinessOperation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\bin\Debug\net5.0\MyBlog.Business.BusinessOperation.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\ref\MyBlog.Business.BusinessOperation.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.BusinessOperation\obj\Debug\net5.0\MyBlog.Business.BusinessOperation.pdb

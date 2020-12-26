@@ -1,0 +1,11 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\bin\Debug\net5.0\MyBlog.Core.BaseModels.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\bin\Debug\net5.0\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\bin\Debug\net5.0\ref\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\bin\Debug\net5.0\MyBlog.Core.BaseModels.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\ref\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.pdb

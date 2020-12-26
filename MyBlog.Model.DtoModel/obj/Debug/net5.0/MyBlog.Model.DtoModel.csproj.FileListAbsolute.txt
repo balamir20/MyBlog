@@ -1,0 +1,12 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\bin\Debug\net5.0\MyBlog.Model.DtoModel.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\bin\Debug\net5.0\MyBlog.Model.DtoModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\bin\Debug\net5.0\ref\MyBlog.Model.DtoModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\bin\Debug\net5.0\MyBlog.Model.DtoModel.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\ref\MyBlog.Model.DtoModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.pdb

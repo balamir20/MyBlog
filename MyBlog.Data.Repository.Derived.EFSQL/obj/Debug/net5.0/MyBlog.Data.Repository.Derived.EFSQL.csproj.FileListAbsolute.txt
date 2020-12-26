@@ -1,0 +1,11 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\ref\MyBlog.Data.Repository.Derived.EFSQL.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\ref\MyBlog.Data.Repository.Derived.EFSQL.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.pdb

@@ -1,0 +1,12 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\bin\Debug\net5.0\MyBlog.Model.PageModel.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\bin\Debug\net5.0\MyBlog.Model.PageModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\bin\Debug\net5.0\ref\MyBlog.Model.PageModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\bin\Debug\net5.0\MyBlog.Model.PageModel.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\ref\MyBlog.Model.PageModel.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.PageModel\obj\Debug\net5.0\MyBlog.Model.PageModel.pdb

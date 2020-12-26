@@ -1,0 +1,12 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\bin\Debug\net5.0\MyBlog.Business.Manager.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\bin\Debug\net5.0\MyBlog.Business.Manager.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\bin\Debug\net5.0\ref\MyBlog.Business.Manager.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\bin\Debug\net5.0\MyBlog.Business.Manager.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\ref\MyBlog.Business.Manager.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Business.Manager\obj\Debug\net5.0\MyBlog.Business.Manager.csprojAssemblyReference.cache
