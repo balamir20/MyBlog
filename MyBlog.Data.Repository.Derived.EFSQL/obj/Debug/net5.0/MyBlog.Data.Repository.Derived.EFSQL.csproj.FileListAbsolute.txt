@@ -9,3 +9,11 @@ C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFS
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\ref\MyBlog.Data.Repository.Derived.EFSQL.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Model.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Core.BaseModels.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Model.Infrastructure.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\bin\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Derived.EFSQL\obj\Debug\net5.0\MyBlog.Data.Repository.Derived.EFSQL.csproj.CopyComplete

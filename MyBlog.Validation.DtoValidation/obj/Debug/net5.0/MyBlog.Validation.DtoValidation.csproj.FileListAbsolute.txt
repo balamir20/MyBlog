@@ -9,3 +9,4 @@ C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\ob
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\ref\MyBlog.Validation.DtoValidation.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Validation.DtoValidation\obj\Debug\net5.0\MyBlog.Validation.DtoValidation.csprojAssemblyReference.cache

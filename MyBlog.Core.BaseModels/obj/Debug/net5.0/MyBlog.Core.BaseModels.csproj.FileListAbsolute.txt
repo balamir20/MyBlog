@@ -9,3 +9,4 @@ C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\n
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\ref\MyBlog.Core.BaseModels.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Core.BaseModels\obj\Debug\net5.0\MyBlog.Core.BaseModels.csprojAssemblyReference.cache

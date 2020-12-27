@@ -10,3 +10,8 @@ C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastruct
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\ref\MyBlog.Data.Repository.Infrastructure.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Data.Model.Infrastructure.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Core.BaseModels.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\bin\Debug\net5.0\MyBlog.Data.Model.Infrastructure.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Data.Repository.Infrastructure\obj\Debug\net5.0\MyBlog.Data.Repository.Infrastructure.csproj.CopyComplete

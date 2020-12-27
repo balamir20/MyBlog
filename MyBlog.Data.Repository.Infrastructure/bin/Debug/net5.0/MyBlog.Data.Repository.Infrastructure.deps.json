@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "MyBlog.Data.Repository.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MyBlog.Core.BaseModels": "1.0.0",
+          "MyBlog.Data.Model.Infrastructure": "1.0.0"
+        },
         "runtime": {
           "MyBlog.Data.Repository.Infrastructure.dll": {}
+        }
+      },
+      "MyBlog.Core.BaseModels/1.0.0": {
+        "runtime": {
+          "MyBlog.Core.BaseModels.dll": {}
+        }
+      },
+      "MyBlog.Data.Model.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MyBlog.Core.BaseModels": "1.0.0"
+        },
+        "runtime": {
+          "MyBlog.Data.Model.Infrastructure.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MyBlog.Data.Repository.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBlog.Core.BaseModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBlog.Data.Model.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

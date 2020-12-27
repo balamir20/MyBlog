@@ -10,3 +10,6 @@ C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\ne
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\ref\MyBlog.Model.DtoModel.dll
 C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\bin\Debug\net5.0\MyBlog.Core.BaseModels.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\bin\Debug\net5.0\MyBlog.Core.BaseModels.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Model.DtoModel\obj\Debug\net5.0\MyBlog.Model.DtoModel.csproj.CopyComplete

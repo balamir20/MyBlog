@@ -1,4 +1,7 @@
 ﻿{
+  "ConnectionStrings": {
+    "SqlConnectionString": ""
+  },
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,

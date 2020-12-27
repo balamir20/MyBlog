@@ -1,0 +1,16 @@
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\MyBlog.Presentation.TestConsole.exe
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\MyBlog.Presentation.TestConsole.deps.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\MyBlog.Presentation.TestConsole.runtimeconfig.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\MyBlog.Presentation.TestConsole.runtimeconfig.dev.json
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\MyBlog.Presentation.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\ref\MyBlog.Presentation.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\bin\Debug\net5.0\MyBlog.Presentation.TestConsole.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.csprojAssemblyReference.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.AssemblyInfo.cs
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\ref\MyBlog.Presentation.TestConsole.dll
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.pdb
+C:\Users\muhammet.balamir\source\repos\MyBlog\MyBlog.Presentation.TestConsole\obj\Debug\net5.0\MyBlog.Presentation.TestConsole.genruntimeconfig.cache

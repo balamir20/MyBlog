@@ -4,9 +4,14 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace MyBlog.Data.Repository.Infrastructure
+namespace MyBlog.Core.BaseModels.Services
 {
-    public interface IRepository<TEntity> where TEntity: class, IEntity
+    /// <summary>
+    /// TEntity class olmak zorunda ve IEntityden türetilmiş olmak zorundadır.
+    /// Sql serverdan farklı bir repository kullanabilirim o yüzden bunu oluşturdum.
+    /// </summary>
+    /// <typeparam name="TEntity"></typeparam>
+    public interface IService<TEntity> where TEntity : class, IEntity
     {
         Task<TEntity> GetByIdAsync(int id);
 
