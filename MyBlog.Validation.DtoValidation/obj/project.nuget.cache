@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hRaGIHutGq5YTaCh7yBRooMOjUYJ/GNoli59Reveyw8fKLUJo/pfQnc/om27OK+9OSXmKsUF8zMPl2GLa+78Jg==",
+  "dgSpecHash": "7dkAdESVreFUrbz3x8vFOlA+K9siuhMU4q/PzldKXPI91Suoyrv1Mfxf+VDb3kTPRDRMUpef4FyGWB+1VxqPkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\muhammet.balamir\\source\\repos\\MyBlog\\MyBlog.Validation.DtoValidation\\MyBlog.Validation.DtoValidation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\muhammet.balamir\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\muhammet.balamir\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\muhammet.balamir\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\muhammet.balamir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

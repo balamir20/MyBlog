@@ -12,9 +12,9 @@ namespace MyBlog.Data.Repository.Derived.EFSQL.Repositories.Articles
         {
         }
 
-        public async Task<ArticleEntity> GetWithCategoryByIdAsync(int productId)
+        public async Task<ArticleEntity> GetWithCategoryByIdAsync(int articleId)
         {
-            return await _appDbContext.Articles.Include(m => m.Category).SingleOrDefaultAsync(x => x.Id == productId);
+            return await _appDbContext.Articles.Include(m => m.Category).SingleOrDefaultAsync(x => x.Id == articleId);
         }
     }
 }
